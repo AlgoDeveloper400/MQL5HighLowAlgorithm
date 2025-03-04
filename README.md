@@ -22,3 +22,4 @@ Here are some additional features of the code:
 * Cleans clutter by removing yesterdays lines, meaning only 1 line is shown at a time on the chart.
 * Spread display on screen.
 * On screen news display of the next x days news events, also can be changed via an input variables.
+* Created with AI, debugging was done manually by me. AI simple generates, and I debug and fix.
