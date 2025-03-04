@@ -6,8 +6,8 @@ Once it is confirmed, a line is drawn and a buy/sell trade is executed.
 Very basic and simple.
 
 Here are some additional features of the code:
-* Uses a trailing stop with an increment
-* Breakeven stop
+* Uses a trailing stop with an increment.
+* Breakeven stop.
 * Add to winners logic, that adds to winning trades after the stoploss of the previous trade has been to breakeven.
 * A news filter with inputs to determine how many seconds before/after the news event should we pause trading for(for some symbols not all).
 * Mobile notification system that alerts the user when a trade has been placed and/or modified.
@@ -20,3 +20,5 @@ Here are some additional features of the code:
 * Spread filter also changeable via input variables.
 * Calculates spreads and commissions for every trade so you know what your true trading costs are.
 * Cleans clutter by removing yesterdays lines, meaning only 1 line is shown at a time on the chart.
+* Spread display on screen.
+* On screen news display of the next x days news events, also can be changed via an input variables.
