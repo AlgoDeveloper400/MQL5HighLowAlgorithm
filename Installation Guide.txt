@@ -1,3 +1,4 @@
 To install this algorithm on your MT5, do the following:
 Take the EX5 file and place it in your Experts folder in MT5, you can find this directory where you installed metaquotes. Or you can click on file in the top left corner then open data folder, MLQ5 then Experts.
 Once that is done, open a chart and look for Expert Advisors in the Navigator tabs, click on it and look for the High Low Breakout Algorithm. Then drag and drop onto the chart and set whatever settings you like. Also ensure Algo trading is enabled(located at the top of the screen). 
+One more thing, for the mobile nofifications and emails to work you will need to get your metaquotes ID from the mobile app and for the email notification system, you will need to setup an smtp server so you can receive the nofications correctly.
