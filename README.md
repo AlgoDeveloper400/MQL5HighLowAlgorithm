@@ -1,4 +1,4 @@
-# MQL5HighLowAlgorithm
+# MQL5 High Low Breakout Algorithm
 This Algorithm in MQL5 trades Highs and Lows based on a lookback and number of highs/low touches made on a line.
 A lookback of X candles( can be set via input variable), is used to hunt for the highs/lows.
 The logic first starts countinf at the first high/low that was found in the lookback period, and once more have been detected( also set by input variable), it upates and waits for the number of highs/low to match the input.
@@ -23,3 +23,4 @@ Here are some additional features of the code:
 * Spread display on screen.
 * On screen news display of the next x days news events, also can be changed via an input variables.
 * Created with AI, debugging was done manually by me. AI simple generates, and I debug and fix.
+* under 700 lines of codes and is very easy to setup, no external dlls or sevices needed.
